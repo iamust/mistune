@@ -5,7 +5,7 @@ Kramdown as a service
 # Usage
 
 ```zsh
-http https://mistune.vercel.app <<< ':cat:'
+http https://mistune.vercel.app <<< '~~del~~'
 ```
 
 ## License
