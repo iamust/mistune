@@ -6,7 +6,7 @@ GEM
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
     rexml (3.2.4)
-    rouge (3.26.0)
+    rouge (3.30.0)
 
 PLATFORMS
   ruby
@@ -14,7 +14,7 @@ PLATFORMS
 DEPENDENCIES
   kramdown (~> 2.3)
   kramdown-parser-gfm (~> 1.1)
-  rouge (~> 3.26)
+  rouge (~> 3.28)
 
 BUNDLED WITH
    2.1.4
